@@ -1,1 +1,1 @@
-print('Hellow from main')
+from greet import greet\nprint(greet('GitHub'))
